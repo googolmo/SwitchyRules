@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 4/1/2015
+; Date: 4/3/2015
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -259,3 +259,4 @@ t.co
 *.zendesk.com
 *.duolingo.com
 *.mysql.com
+*.androidsnippets.com
