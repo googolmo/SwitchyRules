@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 4/3/2015
+; Date: 4/8/2015
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -14,6 +14,7 @@
 *.google.com
 *.youtube.com
 *.youtube.io
+*.youtube.jp
 *.ytimg.com
 you.be
 *.youtube-nocookie.com
@@ -29,13 +30,13 @@ you.be
 *.googletagservices.com
 *.googleusercontent.com
 *.googlevideo.com
-
 *.1e100.net
 goo.gl
 *.blogger.com
 *.blogspot.com
 *.blogspot.jp
 *.blogspot.sg
+*.chrome.com
 
 
 ; facebook
