@@ -266,6 +266,7 @@ var FindProxyForURL = function(init, profiles) {
         if (/(?:^|\.)duolingo\.com$/.test(host)) return "+ss";
         if (/(?:^|\.)mysql\.com$/.test(host)) return "+ss";
         if (/(?:^|\.)slack\.com$/.test(host)) return "+ss";
+        if (/(?:^|\.)slack-msgs\.com$/.test(host)) return "+ss";
         if (/(?:^|\.)androidsnippets\.com$/.test(host)) return "+ss";
         return "DIRECT";
     },
