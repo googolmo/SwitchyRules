@@ -51,6 +51,7 @@ goo.gl
 
 ; github
 *.github.com
+*.githubusercontent.com
 
 ; twitter
 *.twitter.com
@@ -264,3 +265,4 @@ t.co
 *.slack.com
 *.slack-msgs.com
 *.dropr.com
+*.packal.org
