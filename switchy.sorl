@@ -1,20 +1,28 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 05/13/15
+; Date: 05/29/15
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
+*.google.com
+*.google.co.jp
+*.google.hk
+*.google.tw
+*.google.de
+*.google.fr
+*.google.sg
+*.youtube.io
+*.youtube.jp
+*.blogspot.com
+*.blogspot.jp
+*.blogspot.sg
 *.android.com
 *.gstatic.com
 *.ggpht.com
 *.googleusercontent.com
-*.google.co.jp
 *.doubleclick.net
 *.googleapis.com
-*.google.com
 *.youtube.com
-*.youtube.io
-*.youtube.jp
 *.ytimg.com
 *.you.be
 *.youtube-nocookie.com
@@ -32,10 +40,8 @@
 *.googlevideo.com
 *.1e100.net
 *.goo.gl
+*.g.co
 *.blogger.com
-*.blogspot.com
-*.blogspot.jp
-*.blogspot.sg
 *.chrome.com
 *.angularjs.org
 *.chromecast.com
