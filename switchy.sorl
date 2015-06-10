@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 06/04/15
+; Date: 06/10/15
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -16,6 +16,7 @@
 *.blogspot.com
 *.blogspot.jp
 *.blogspot.sg
+*.blogspot.tw
 *.android.com
 *.gstatic.com
 *.ggpht.com
