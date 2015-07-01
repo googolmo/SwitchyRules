@@ -1,7 +1,7 @@
 rm:
 	rm switchy.sorl
 
-gen:
+gen: rm
 	python gen_switchy_rule.py
 
 push:
