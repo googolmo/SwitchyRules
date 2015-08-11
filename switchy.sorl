@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 07/01/15
+; Date: 08/11/15
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -90,6 +90,7 @@
 *.ift.tt
 *.ghconduit.com
 *.instagram.com
+*.cdninstagram.com
 *.bitbucket.org
 *.bitcoin.cz
 *.bit.ly
@@ -306,3 +307,11 @@
 *.meilenrechner.de
 *.tietuku.com
 *.prfct.co
+*.4sqi.net
+*.foursquare.com
+*.smartproxy.me
+*.appcrawlr.com
+*.rubiconproject.com
+*.abbotsfordairshow.com
+*.wistia.net
+*.kazuhooku.com
