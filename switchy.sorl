@@ -4,6 +4,7 @@
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
+*.abc.xyz
 *.google.com
 *.google.co.jp
 *.google.com.hk
