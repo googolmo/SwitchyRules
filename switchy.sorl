@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 09/18/15
+; Date: 10/09/15
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -336,3 +336,6 @@
 *.bbc.com
 *.atdmt.com
 *.dwnews.com
+*.staticflickr.com
+*.bestvpn.com
+*.is.gd
