@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 10/27/15
+; Date: 11/26/15
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -17,12 +17,16 @@
 *.google.ca
 *.google.br
 *.google.sg
+*.google.is
 *.youtube.io
 *.youtube.jp
 *.blogspot.com
 *.blogspot.jp
 *.blogspot.sg
 *.blogspot.tw
+*.blogspot.in
+*.blogspot.is
+*.blogspot.uk
 *.android.com
 *.gstatic.com
 *.ggpht.com
@@ -341,3 +345,12 @@
 *.staticflickr.com
 *.bestvpn.com
 *.is.gd
+*.github.io
+*.zeplin.io
+*.lingala.net
+*.greendao-orm.com
+*.trello.com
+*.materialup.com
+*.onenote.com
+*.letscorp.net
+*.duden.de
