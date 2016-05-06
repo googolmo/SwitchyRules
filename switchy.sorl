@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 03/17/16
+; Date: 05/06/16
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -357,9 +357,11 @@
 *.onenote.com
 *.letscorp.net
 *.duden.de
+*.<<<<<<< Updated upstream
 *.crashlytics.io
 *.fabric.io
 *.bintray.com
 *.zapier.com
 *.rfa.org
 *.aqicn.org
+*.medium.com
