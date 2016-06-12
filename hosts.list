@@ -14,9 +14,16 @@ google.br
 google.sg
 google.is
 google.co.id
+google.*
 youtube.io
 youtube.jp
 youtube.co.id
+youtube.co.jp
+youtube.hk
+youtube.tw
+youtube.com
+youtu.be
+youtube-nocookie.com
 blogspot.com
 blogspot.jp
 blogspot.sg
@@ -31,10 +38,7 @@ ggpht.com
 googleusercontent.com
 doubleclick.net
 googleapis.com
-youtube.com
 ytimg.com
-youtu.be
-youtube-nocookie.com
 googlecode.com
 googleadservices.com
 google-analytics.com
@@ -358,3 +362,4 @@ bintray.com
 zapier.com
 rfa.org
 aqicn.org
+medium.com
