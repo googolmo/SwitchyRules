@@ -3,7 +3,7 @@
 import time
 
 pac_proxy = '''
-var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
+var proxy_rule = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 '''
 
 pac_domain = '''
@@ -11,10 +11,11 @@ var domains = [
 '''
 
 pac_footer = '''];
+
 function FindProxyForURL(url, host) {
     for (var i = domains.length - 1; i >= 0; i--) {
        if (dnsDomainIs(host, domains[i])) {
-            return proxy;
+            return proxy_rule;
        };
     };
     return "DIRECT";

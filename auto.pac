@@ -1,5 +1,5 @@
 
-var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
+var proxy_rule = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var domains = [
 abc.xyz,
@@ -358,10 +358,11 @@ aqicn.org,
 medium.com,
 w3schools.com,
 ];
+
 function FindProxyForURL(url, host) {
     for (var i = domains.length - 1; i >= 0; i--) {
        if (dnsDomainIs(host, domains[i])) {
-            return proxy;
+            return proxy_rule;
        };
     };
     return "DIRECT";
