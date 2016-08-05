@@ -30,7 +30,7 @@ def main():
     for line in hosts.readlines():
         if len(line.strip()) != 0:
             if not line.startswith(';') and '*' not in line:
-                switchy_rule.writelines(line.replace('\n', '') + ",\n")
+                switchy_rule.writelines('"%s",\n' % line.replace('\n', ''))
     switchy_rule.writelines(pac_footer)
     hosts.close()
     switchy_rule.close()
