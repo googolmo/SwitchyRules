@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 08/09/16
+; Date: 08/16/16
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -370,3 +370,4 @@
 *.medium.com
 *.w3schools.com
 *.asana.com
+*.travis-ci.com

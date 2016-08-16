@@ -358,6 +358,7 @@ var domains = [
 "medium.com",
 "w3schools.com",
 "asana.com",
+"travis-ci.com",
 ];
 
 function FindProxyForURL(url, host) {
