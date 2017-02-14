@@ -107,7 +107,7 @@ var domains = [
 "docker.com",
 "dropbox.com",
 "dropboxstatic.com",
-"dropboxstatic.com",
+"dropboxusercontent.com",
 "duckduckgo.com",
 "eclipse.org",
 "edgefonts.com",
