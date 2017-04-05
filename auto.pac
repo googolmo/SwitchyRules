@@ -359,6 +359,12 @@ var domains = [
 "w3schools.com",
 "asana.com",
 "travis-ci.com",
+"lede-project.org",
+"thaiembbeij.org",
+"lifemiles.com",
+"bstatic.com",
+"materialdesignicons.com",
+"chinadigitaltimes.net",
 ];
 
 function FindProxyForURL(url, host) {

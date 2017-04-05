@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 02/14/17
+; Date: 04/05/17
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -371,3 +371,9 @@
 *.w3schools.com
 *.asana.com
 *.travis-ci.com
+*.lede-project.org
+*.thaiembbeij.org
+*.lifemiles.com
+*.bstatic.com
+*.materialdesignicons.com
+*.chinadigitaltimes.net
