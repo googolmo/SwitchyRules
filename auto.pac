@@ -337,6 +337,7 @@ var domains = [
 "bbc.com",
 "atdmt.com",
 "dwnews.com",
+"dw.com",
 "staticflickr.com",
 "bestvpn.com",
 "is.gd",
