@@ -366,6 +366,7 @@ var domains = [
 "bstatic.com",
 "materialdesignicons.com",
 "chinadigitaltimes.net",
+"theinitium.com",
 ];
 
 function FindProxyForURL(url, host) {
