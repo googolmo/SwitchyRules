@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 04/12/17
+; Date: 09/21/17
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -20,6 +20,7 @@
 *.google.is
 *.google.co.id
 *.google.*
+*.material.*
 *.youtube.io
 *.youtube.jp
 *.youtube.co.id
