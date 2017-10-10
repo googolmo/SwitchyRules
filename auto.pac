@@ -367,6 +367,16 @@ var domains = [
 "materialdesignicons.com",
 "chinadigitaltimes.net",
 "theinitium.com",
+"privateinternetaccess.com",
+"askubuntu.com",
+"azure.com",
+"cloudfront.com",
+"speakerdeck.com",
+"lineageos.org",
+"nordvpn.com",
+"redditstatic.com",
+"openwrt.org",
+"airvpn.org",
 ];
 
 function FindProxyForURL(url, host) {
