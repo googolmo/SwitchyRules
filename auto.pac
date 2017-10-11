@@ -377,6 +377,8 @@ var domains = [
 "redditstatic.com",
 "openwrt.org",
 "airvpn.org",
+".google",
+"t.me",
 ];
 
 function FindProxyForURL(url, host) {

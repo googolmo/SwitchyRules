@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 10/10/17
+; Date: 10/18/17
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -390,3 +390,5 @@
 *.redditstatic.com
 *.openwrt.org
 *.airvpn.org
+*..google
+*.t.me
