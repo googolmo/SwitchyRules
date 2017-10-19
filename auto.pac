@@ -379,6 +379,7 @@ var domains = [
 "airvpn.org",
 ".google",
 "t.me",
+"mensnonno.jp",
 ];
 
 function FindProxyForURL(url, host) {
