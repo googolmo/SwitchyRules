@@ -377,7 +377,7 @@ var domains = [
 "redditstatic.com",
 "openwrt.org",
 "airvpn.org",
-".google",
+"google",
 "t.me",
 "mensnonno.jp",
 ];
