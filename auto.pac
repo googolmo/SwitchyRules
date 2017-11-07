@@ -380,6 +380,16 @@ var domains = [
 "google",
 "t.me",
 "mensnonno.jp",
+"apkmirror.com",
+"duckdns.org",
+"playno1.com",
+"skyscanner.jp",
+"pushbullet.com",
+"didiaotv.com",
+"airvpn.org",
+"ultimatehackingkeyboard.com",
+"dailymotion.com",
+"mydesy.com",
 ];
 
 function FindProxyForURL(url, host) {

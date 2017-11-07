@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 10/19/17
+; Date: 11/07/17
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -393,3 +393,13 @@
 *.google
 *.t.me
 *.mensnonno.jp
+*.apkmirror.com
+*.duckdns.org
+*.playno1.com
+*.skyscanner.jp
+*.pushbullet.com
+*.didiaotv.com
+*.airvpn.org
+*.ultimatehackingkeyboard.com
+*.dailymotion.com
+*.mydesy.com
