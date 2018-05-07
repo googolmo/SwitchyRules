@@ -269,6 +269,8 @@ var domains = [
 "xnxx.com",
 "xvideos.com",
 "yahoo.com",
+"yimg.com",
+"oath.com",
 "yfrog.com",
 "youjizz.com",
 "zend.com",

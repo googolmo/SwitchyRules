@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 11/07/17
+; Date: 05/07/18
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -282,6 +282,8 @@
 *.xnxx.com
 *.xvideos.com
 *.yahoo.com
+*.yimg.com
+*.oath.com
 *.yfrog.com
 *.youjizz.com
 *.zend.com
