@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 05/07/18
+; Date: 05/08/18
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -405,3 +405,28 @@
 *.ultimatehackingkeyboard.com
 *.dailymotion.com
 *.mydesy.com
+*.pandora.com
+*.pypi.org
+*.tunein.com
+*.letsencrypt.org
+*.eff.org
+*.logz.io
+*.mdbootstrap.com
+*.bethesda.net
+*.quay.io
+*.portainer.io
+*.cohoha.jp
+*.indianvisaonline.gov.in
+*.whostreams.net
+*.nhk.or.jp
+*.instamp3.live
+*.jquery.com
+*.oloadcdn.net
+*.playercdn.net
+*.zerotier.com
+*.openwrt.org
+*.frescolib.org
+*.lineageos.org
+*.cloudfront.net
+*.booking.com
+*.askubuntu.com
