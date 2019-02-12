@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 05/08/18
+; Date: 02/12/19
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
@@ -221,6 +221,8 @@
 *.radio.com
 *.ramhost.com
 *.reddit.com
+*.redditmedia.com
+*.redd.it
 *.readthedocs.org
 *.redhat.com
 *.redtube.com
@@ -430,3 +432,4 @@
 *.cloudfront.net
 *.booking.com
 *.askubuntu.com
+*.pornhub.com

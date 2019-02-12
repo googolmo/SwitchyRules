@@ -209,6 +209,8 @@ var domains = [
 "radio.com",
 "ramhost.com",
 "reddit.com",
+"redditmedia.com",
+"redd.it",
 "readthedocs.org",
 "redhat.com",
 "redtube.com",
@@ -417,6 +419,7 @@ var domains = [
 "cloudfront.net",
 "booking.com",
 "askubuntu.com",
+"pornhub.com",
 ];
 
 function FindProxyForURL(url, host) {
