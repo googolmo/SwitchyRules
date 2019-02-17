@@ -3,6 +3,7 @@ var proxy_rule = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var domains = [
 "abc.xyz",
+"google",
 "google.com",
 "google.co.jp",
 "google.com.hk",
@@ -420,6 +421,11 @@ var domains = [
 "booking.com",
 "askubuntu.com",
 "pornhub.com",
+"phncdn.com",
+"btbtt.co",
+"avgle.com",
+"getpostman.com",
+"airav.cc",
 ];
 
 function FindProxyForURL(url, host) {

@@ -1,10 +1,11 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 02/12/19
+; Date: 02/17/19
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; Google
 *.abc.xyz
+*.google
 *.google.com
 *.google.co.jp
 *.google.com.hk
@@ -433,3 +434,8 @@
 *.booking.com
 *.askubuntu.com
 *.pornhub.com
+*.phncdn.com
+*.btbtt.co
+*.avgle.com
+*.getpostman.com
+*.airav.cc
